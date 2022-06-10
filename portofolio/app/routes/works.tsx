@@ -50,7 +50,7 @@ export default function Works() {
           className={classes.card}
         >
           <Overlay
-            gradient={`linear-gradient(0deg, #000 20%, #312f2f 50%, #212529 100%)`}
+            gradient={`linear-gradient(to top, #000000b3, transparent)`}
             opacity={0.5}
             zIndex={0}
           />
